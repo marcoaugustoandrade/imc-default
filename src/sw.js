@@ -7,7 +7,8 @@ const urls = [
   '/assets/images/delete.svg',
   '/assets/js/functions.js',
   '/assets/css/teste.css',
-  '/assets/images/icons/icon-512x512.png'
+  '/assets/images/icons/icon-512x512.png',
+  '/manifest.json'
 ]
 
 // Instalando o cache
